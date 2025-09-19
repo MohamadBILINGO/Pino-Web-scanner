@@ -43,7 +43,7 @@ Example usage:
         ██╔═══╝ ██║██║╚██╗██║██║   ██║
         ██║     ██║██║ ╚████║╚██████╔╝
         ╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-             BingScan v1.0
+             PinoScan v1.0
 =====================================
 
 Authored by Mohamad
@@ -64,4 +64,5 @@ Time: 0.142s
 [+] Ping Response:
 64 bytes from 142.250.184.14: icmp_seq=1 ttl=118 time=18.2 ms
 ...
+
 
