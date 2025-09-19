@@ -23,16 +23,16 @@ The script uses the following tools:
 - `curl`
 - `ping` (`iputils-ping`)
 
-If missing, BingScan will ask to install them automatically (Debian/Ubuntu systems).
+If missing, PinoScan will ask to install them automatically (Debian/Ubuntu systems).
 
 ---
 
 ## ⚡ Installation
 Clone this repository and make the script executable:
 ```bash
-git clone https://github.com/MohamadBILINGO/BingScan.git
-cd BingScan
-chmod +x bingScan.sh
+git clone https://github.com/MohamadBILINGO/PinoScan.git
+cd PinoScan
+chmod +x PinoScan.sh
 
 Example usage:
 
@@ -64,5 +64,6 @@ Time: 0.142s
 [+] Ping Response:
 64 bytes from 142.250.184.14: icmp_seq=1 ttl=118 time=18.2 ms
 ...
+
 
 
