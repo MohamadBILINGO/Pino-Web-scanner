@@ -65,6 +65,11 @@ Time: 0.142s
 ...
 
 
+⚖️ Legal Notice
+This project is provided “as is” for authorized security testing, educational, and research purposes only.
+Unauthorized use against systems without explicit permission is strictly prohibited and may be illegal.
+The author assumes no responsibility or liability for misuse.
+
 
 
 
