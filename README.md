@@ -1,4 +1,4 @@
-👨 Authored by **Mohamad**  
+👨 Authored by **Mohamad**
 🌐 GitHub: [https://github.com/MohamadBILINGO](https://github.com/MohamadBILINGO)  
 
 ---
