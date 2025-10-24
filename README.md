@@ -3,7 +3,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features 
 - Get **IP address** of the domain  
 - Fetch **DNS records**  
 - Extract **WHOIS info** (first 20 lines)  
